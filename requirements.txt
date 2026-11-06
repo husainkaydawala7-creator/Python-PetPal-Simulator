@@ -1,0 +1,7 @@
+# Python-PetPal-Simulator Dependencies
+# This project is built using 100% Pure Standard Python (Python 3.8+)
+# No external third-party libraries (pip packages) are required to run the simulator.
+#
+# Standard library modules used:
+# - random (RPG encounter selection and procedural rewards)
+# - sys (Cross-platform standard I/O stream configuration)
